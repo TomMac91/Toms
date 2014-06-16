@@ -1,5 +1,5 @@
 <?php
 
-echo "Git file";
+echo "Git file exercise";
 
 ?>
