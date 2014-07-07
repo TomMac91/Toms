@@ -1,0 +1,4 @@
+<?PHP
+echo "Hi how are you"
+echo "Thats good"
+?>
